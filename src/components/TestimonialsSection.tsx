@@ -5,8 +5,8 @@ const testimonials = [
    {
     id: 1,
     name: 'Gaurang Maharwal',
-    title: 'SWE, Bangalore, Father',
-    content: 'I have no words to express how proud I am of my son for his ongoing success. He took the time to understand my unique situation and provided tailored advice that has made a significant difference in peoples financial well-being.',
+    title: 'SWE, Bangalore, ',
+    content: 'I have no words to express how proud I am of my divy for his ongoing success. He took the time to understand my unique situation and provided tailored advice that has made a significant difference in peoples financial well-being.',
      avatar: '/Father.JPG',
   },
   {
